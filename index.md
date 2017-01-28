@@ -16,15 +16,19 @@ My research interests include cloud computing security, network security, mobile
 
 ### Recent Publication
 
+- Chengjun Cai, **Xingliang Yuan**, and Cong Wang, "Towards Trustworthy and Private Keyword Search in P2P Storage Network", In the _IEEE Communication and Information Systems Security Symposium_ (**_ICC'17_**), _Paris, France, 2017._
+
+- **Xingliang Yuan**, Yu Guo, Xinyu Wang, Cong Wang, Baochun Li, and Xiaohua Jia, "EncKV: An Encrypted Key-value Store with Rich Queries", In the _12th ACM Asia Conference on Computer and Communications Security_ (**_AISACCS'17_**), _Abu Dhabi, UAE, 2017. (Acceptance ratio: 73/359 = 20.3%)_
+
 - Chenyun Yu, Sarana Nutanong, Hangyu Li, Cong Wang, and **Xingliang Yuan**, "A Generic Method for Accelerating LSH-based Similarity Join Processing", **_IEEE Transactions on Knowledge and Data Engineering_** (**_TKDE_**), Accepted, 2016.
 
-- Jinghua Jiang\*, Yifeng Zheng\*, **Xingliang Yuan**, Zhenkui Shi, Xiaolin Gui, Cong Wang, and Jing Yao, "Towards Secure and Accurate Targeted Mobile Coupon Delivery", **_IEEE ACCESS_**, Accepted, 2016.
+- Jinghua Jiang\*, Yifeng Zheng\*, **Xingliang Yuan**, Zhenkui Shi, Xiaolin Gui, Cong Wang, and Jing Yao, "Towards Secure and Accurate Targeted Mobile Coupon Delivery", **_IEEE ACCESS_**, vol. 4, page 8116 - 8126, 2016.
 
 - **Xingliang Yuan**, Xinyu Wang, Cong Wang, Anna Squicciarini, and Kui Ren, "Towards Privacy-preserving and Practical Image-centric Social Discovery", **_IEEE Transactions on Dependable and Secure Computing_** (**_TDSC_**), Accepted, 2016.
 
-- Yifeng Zheng, **Xingliang Yuan**, Xinyu Wang, Jinghua Jiang, Cong Wang, and Xiaolin Gui, "Towards Encrypted Cloud Media Centre with Secure Deduplication", **_IEEE Transactions on Multimedia_** (**_TMM_**), Accepted, 2016.
+- Yifeng Zheng, **Xingliang Yuan**, Xinyu Wang, Jinghua Jiang, Cong Wang, and Xiaolin Gui, "Towards Encrypted Cloud Media Centre with Secure Deduplication", **_IEEE Transactions on Multimedia_** (**_TMM_**), vol. 19, no. 2, page 251 - 265, 2016.
 
-- **Xingliang Yuan**, Xinyu Wang, Cong Wang, Jian Weng, and Kui Ren, "Enabling Secure and Fast Indexing for Privacy-assured Healthcare Monitoring via Compressive Sensing", **_IEEE Transactions on Multimedia_** (**_TMM_**), vol. 18, no. 10, page 1-13, 2016.
+- **Xingliang Yuan**, Xinyu Wang, Cong Wang, Jian Weng, and Kui Ren, "Enabling Secure and Fast Indexing for Privacy-assured Healthcare Monitoring via Compressive Sensing", **_IEEE Transactions on Multimedia_** (**_TMM_**), vol. 18, no. 10, page 1 - 13, 2016.
 
 - Helei Cui, **Xingliang Yuan** and Cong Wang, "Harnessing Encrypted Data in Cloud for Secure and Efficient Mobile Image Sharing", **_IEEE Transactions on Mobile Computing_** (**_TMC_**), Accepted, 2016.
 
@@ -58,9 +62,9 @@ My research interests include cloud computing security, network security, mobile
 
 ### Service
 
-- TPC member: [AsiaCCS-SCC 2017](https://conference.cs.cityu.edu.hk/asiaccsscc/index.html)
-- Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Knowledge and Data Engineering, IEEE Internet of Things Journal, Security and Communication Networks; CODASPY 2017 
-- Departmental Research Education Committee Member, CS Dept., CityU HK, 2014 - 2016
+- TPC member: [AsiaCCS-SCC 2017](https://conference.cs.cityu.edu.hk/asiaccsscc/index.html);Globecom 2017.
+- Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Knowledge and Data Engineering, IEEE Internet of Things Journal, Security and Communication Networks; CODASPY 2017.
+- Departmental Research Education Committee Member, CS Dept., CityU HK, 2014 - 2016.
 - Volunteer: INFOCOM 2015; [ASI 2014, Information Security and Privacy in Social Networks and Cloud Computing](http://conference.cs.cityu.edu.hk/asi14/index.htm).
 
 ### Talk
