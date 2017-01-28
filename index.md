@@ -18,7 +18,7 @@ My research interests include cloud computing security, network security, mobile
 
 - Chengjun Cai, **Xingliang Yuan**, and Cong Wang, "Towards Trustworthy and Private Keyword Search in P2P Storage Network", In the _IEEE Communication and Information Systems Security Symposium_ (**_ICC'17_**), _Paris, France, 2017._
 
-- **Xingliang Yuan**, Yu Guo, Xinyu Wang, Cong Wang, Baochun Li, and Xiaohua Jia, "EncKV: An Encrypted Key-value Store with Rich Queries", In the _12th ACM Asia Conference on Computer and Communications Security_ (**_AISACCS'17_**), _Abu Dhabi, UAE, 2017. (Acceptance ratio: 73/359 = 20.3%)_
+- **Xingliang Yuan**, Yu Guo, Xinyu Wang, Cong Wang, Baochun Li, and Xiaohua Jia, "EncKV: An Encrypted Key-value Store with Rich Queries", In the _12th ACM Asia Conference on Computer and Communications Security_ (**_ASIACCS'17_**), _Abu Dhabi, UAE, 2017. (Acceptance ratio: 73/359 = 20.3%)_
 
 - Chenyun Yu, Sarana Nutanong, Hangyu Li, Cong Wang, and **Xingliang Yuan**, "A Generic Method for Accelerating LSH-based Similarity Join Processing", **_IEEE Transactions on Knowledge and Data Engineering_** (**_TKDE_**), Accepted, 2016.
 
@@ -38,7 +38,7 @@ My research interests include cloud computing security, network security, mobile
 
 - Chengcheng Dai, **Xingliang Yuan**, and Cong Wang, "Privacy-Preserving Ridesharing Recommendation in Geosocial Networks", In the _5th International Conference on Computational Social Networks_ (**_CSoNet'16_**), _Ho Chi Minh City, Viet Nam, 2016. (**Invited Paper**)_
 
-- **Xingliang Yuan**, Xinyu Wang, Cong Wang, Chen Qian, and Jianxiong Lin, "Building an Encrypted, Distributed, and Searchable Key-value Store", In the _11th ACM Asia Conference on Computer and Communications Security_ (**_AISACCS'16_**), _Xi'an, China, 2016. (Acceptance ratio: 73/350 = 20.9%)_
+- **Xingliang Yuan**, Xinyu Wang, Cong Wang, Chen Qian, and Jianxiong Lin, "Building an Encrypted, Distributed, and Searchable Key-value Store", In the _11th ACM Asia Conference on Computer and Communications Security_ (**_ASIACCS'16_**), _Xi'an, China, 2016. (Acceptance ratio: 73/350 = 20.9%)_
 
 - **Xingliang Yuan**, Xinyu Wang, Jianxiong Lin and Cong Wang, "Privacy-preserving Deep Packet Inspection in Outsourced Middleboxes", In the _35th International Conference on Computer Communications_ (**_INFOCOM'16_**), _San Francisco, USA, 2016. (Acceptance ratio: 300/1644 = 18.25%)_
 
