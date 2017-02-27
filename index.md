@@ -7,7 +7,7 @@ image:
 ---
 
 ### Overview 
-I am currently a Research Fellow in [Department of Compute Science](http://www.cs.cityu.edu.hk/) at [City University of Hong Kong](http://www.cityu.edu.hk/). I earned my PhD degree from [City University of Hong Kong](http://www.cityu.edu.hk/) under the direction of the incomparable [Cong Wang](http://www.cs.cityu.edu.hk/~congwang/) in August 2016. I received my MS degree and BS degree from [Illinois Institute of Technology](http://www.iit.edu/) and [Nanjing University of Posts and Telecommunications](http://www.njupt.edu.cn/) in 2010 and 2008 respectively, both majored in Electrical Engineering. I also worked at [Stromasys S.A.](http://www.stromasys.com/) as Senior Software Engineer from 2011 to 2013, developing virtual SPARC and ALPHA servers on the x86 platform. 
+I am currently a Research Fellow in [Department of Compute Science](http://www.cs.cityu.edu.hk/) at [City University of Hong Kong](http://www.cityu.edu.hk/). I earned my PhD degree from [City University of Hong Kong](http://www.cityu.edu.hk/) under the direction of the incomparable [Cong Wang](http://www.cs.cityu.edu.hk/~congwang/) in August 2016, and I received my MS degree and BS degree from [Illinois Institute of Technology](http://www.iit.edu/) and [Nanjing University of Posts and Telecommunications](http://www.njupt.edu.cn/) both in Electrical Engineering. Before that, I was gradudated from [High School Affiliated to Nanjing Normal University](https://en.wikipedia.org/wiki/High_School_Affiliated_to_Nanjing_Normal_University). From 2011 to 2013, I worked at [Stromasys S.A.](http://www.stromasys.com/) as Senior Software Engineer, developing virtual SPARC and ALPHA servers on the x86 platform. 
 
 <br />
 My research interests include cloud computing security, network security, mobile security, and hardware security, with the current focus on designing encrypted search techniques for large-scale applications and building secure and practical networked systems.
@@ -32,7 +32,7 @@ My research interests include cloud computing security, network security, mobile
 
 - Helei Cui, **Xingliang Yuan** and Cong Wang, "Harnessing Encrypted Data in Cloud for Secure and Efficient Mobile Image Sharing", **_IEEE Transactions on Mobile Computing_** (**_TMC_**), Accepted, 2016.
 
-- **Xingliang Yuan**, Huayi Duan, and Cong Wang, "Bringing Practical Execution Assurances to Outsourced Middleboxes", to appear in the _24th IEEE International Conference on Network Protocols_ (**_ICNP'16_**), _Singapore, 2016. (Acceptance ratio: 46/229 = 20%)_ .
+- **Xingliang Yuan**, Huayi Duan, and Cong Wang, "Bringing Execution Assurances of Pattern Matching in Outsourced Middleboxes", In the _24th IEEE International Conference on Network Protocols_ (**_ICNP'16_**), _Singapore, 2016. (Acceptance ratio: 46/229 = 20%)_ .
 
 - **Xingliang Yuan**, Xinyu Wang, Jinfan Wang, Yilei Chu, Cong Wang, Jianping Wang, Marie-Jose Montpetit, and Shucheng Liu, "Enabling Secure and Efficient Video Delivery through Encrypted In-network Caching", **_IEEE Journal on Selected Areas in Communications_** (**_JSAC_**), vol. 34, no. 8, page 1-14, 2016.
 
