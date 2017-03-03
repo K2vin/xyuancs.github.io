@@ -16,7 +16,7 @@ My research interests include cloud computing security, network security, mobile
 
 ### Recent Publication
 
-- Chengjun Cai, **Xingliang Yuan**, and Cong Wang, "Towards Trustworthy and Private Keyword Search in P2P Storage Network", In the _IEEE Communication and Information Systems Security Symposium_ (**_ICC'17_**), _Paris, France, 2017._
+- Chengjun Cai, **Xingliang Yuan**, and Cong Wang, "Towards Trustworthy and Private Keyword Search in Encrypted Decentralized Storage", In the _IEEE Communication and Information Systems Security Symposium_ (**_ICC'17_**), _Paris, France, 2017._
 
 - **Xingliang Yuan**, Yu Guo, Xinyu Wang, Cong Wang, Baochun Li, and Xiaohua Jia, "EncKV: An Encrypted Key-value Store with Rich Queries", In the _12th ACM Asia Conference on Computer and Communications Security_ (**_ASIACCS'17_**), _Abu Dhabi, UAE, 2017. (Acceptance ratio: 73/359 = 20.3%)_
 
