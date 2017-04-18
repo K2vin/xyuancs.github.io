@@ -16,9 +16,13 @@ My research interests include cloud computing security, network security, mobile
 
 ### Recent Publication
 
+- Xiaoning Liu, **Xingliang Yuan**, and Cong Wang, "EncSIM: An Encrypted Similarity Search Service for Distributed High-dimensional Datasets", In the _25th IEEE/ACM International Symposium on Quality of Service_ (**_IWQoS'17_**), _Barcelona, Spain, 2017. (Acceptance ratio: 29/149 = 19.5%)_
+
+- Jinghua Jiang, Yifeng Zheng,  Zhenkui Shi, **Xingliang Yuan**, Xiaolin Gui, and Cong Wang, "A Practical System for Privacy-Aware Targeted Mobile Advertising Services", **_IEEE Transactions on Services Computing_** (**_TSC_**), Accepted, 2017.
+
 - Chengjun Cai, **Xingliang Yuan**, and Cong Wang, "Towards Trustworthy and Private Keyword Search in Encrypted Decentralized Storage", In the _IEEE Communication and Information Systems Security Symposium_ (**_ICC'17_**), _Paris, France, 2017._
 
-- **Xingliang Yuan**, Yu Guo, Xinyu Wang, Cong Wang, Baochun Li, and Xiaohua Jia, "EncKV: An Encrypted Key-value Store with Rich Queries", In the _12th ACM Asia Conference on Computer and Communications Security_ (**_ASIACCS'17_**), _Abu Dhabi, UAE, 2017. (Acceptance ratio: 73/359 = 20.3%)_
+- **Xingliang Yuan**, Yu Guo, Xinyu Wang, Cong Wang, Baochun Li, and Xiaohua Jia, "EncKV: An Encrypted Key-value Store with Rich Queries", In the _12th ACM Asia Conference on Computer and Communications Security_ (**_ASIACCS'17_**), _Abu Dhabi, UAE, 2017. (Acceptance ratio: 67/359 = 18.6%)_
 
 - Chenyun Yu, Sarana Nutanong, Hangyu Li, Cong Wang, and **Xingliang Yuan**, "A Generic Method for Accelerating LSH-based Similarity Join Processing", **_IEEE Transactions on Knowledge and Data Engineering_** (**_TKDE_**), Accepted, 2016.
 
