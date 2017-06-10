@@ -10,11 +10,16 @@ image:
 I am currently a Research Fellow in [Department of Compute Science](http://www.cs.cityu.edu.hk/) at [City University of Hong Kong](http://www.cityu.edu.hk/). I earned my PhD degree from [City University of Hong Kong](http://www.cityu.edu.hk/) under the direction of the incomparable [Cong Wang](http://www.cs.cityu.edu.hk/~congwang/) in August 2016, and I received my MS degree and BS degree from [Illinois Institute of Technology](http://www.iit.edu/) and [Nanjing University of Posts and Telecommunications](http://www.njupt.edu.cn/) both in Electrical Engineering. Before that, I was graduated from the [High School Affiliated to Nanjing Normal University](https://en.wikipedia.org/wiki/High_School_Affiliated_to_Nanjing_Normal_University). From 2011 to 2013, I worked at [Stromasys S.A.](http://www.stromasys.com/) as Senior Software Engineer, developing virtual SPARC and ALPHA servers on the x86 platform. 
 
 <br />
-My research interests include cloud computing security, network security, mobile security, and hardware security, with the current focus on designing encrypted search techniques for large-scale applications and building secure and practical networked systems.
+My research interests include cloud computing security, network security, mobile security, and hardware security, with the current focus on search over encrypted data, and network function virtualization security.
+
+<br />
+I will join the Faculty of Information Technology at Monash University as a Lecturer (~Assistant Professor).
 
 ---
 
 ### Recent Publication
+
+- Chengjun Cai, **Xingliang Yuan**, and Cong Wang, "Securing Distributed Keyword Search in Encrypted Decentralized Storage with Blockchain", In the _1st IEEE Symposium on Privacy-Aware Computing_ (**_PAC'17_**), _Washington, USA, 2017._
 
 - Xiaoning Liu, **Xingliang Yuan**, and Cong Wang, "EncSIM: An Encrypted Similarity Search Service for Distributed High-dimensional Datasets", In the _25th IEEE/ACM International Symposium on Quality of Service_ (**_IWQoS'17_**), _Barcelona, Spain, 2017. (Acceptance ratio: 29/149 = 19.5%)_
 
@@ -59,20 +64,17 @@ My research interests include cloud computing security, network security, mobile
 
 ---
 
-### Grant
-
-- Pi: Technology Start-up Support Scheme for Universities (TSSSU), HK ITC, Apr 2015 - Apr 2017;
-- Co-Pi: “Achieving Similarity Join Services for Outsourced Encrypted Datasets”, ITF Tier 3, HK ITC, Jul 2016 - Dec 2017;
 
 ### Service
 
 - TPC member: [AsiaCCS-SCC 2017](https://conference.cs.cityu.edu.hk/asiaccsscc/index.html);Globecom 2017.
-- Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Knowledge and Data Engineering, IEEE Internet of Things Journal, Security and Communication Networks; CODASPY 2017.
+- Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Knowledge and Data Engineering, IEEE Internet of Things Journal, Security and Communication Networks; ACM CODASPY 2017.
 - Departmental Research Education Committee Member, CS Dept., CityU HK, 2014 - 2016.
 - Volunteer: INFOCOM 2015; [ASI 2014, Information Security and Privacy in Social Networks and Cloud Computing](http://conference.cs.cityu.edu.hk/asi14/index.htm).
 
-### Talk
+### Invited Talk
 
+- "Private and Versatile Search over Very Large Encrypted Datasets", at CityU-CS Research Student Workshop, June 2017
 - "Towards Secure Outsourced Middleboxes", at Monash University, December 2016
 - "Searchable Encryption in Secure Network Function Outsourcing", at Jinan University, April 2016
 
