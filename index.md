@@ -19,7 +19,9 @@ I will join the Faculty of Information Technology at [Monash University](https:/
 
 ### Recent Publication
 
-- Chengjun Cai, **Xingliang Yuan**, and Cong Wang, "Securing Distributed Keyword Search in Encrypted Decentralized Storage with Blockchain", In the _1st IEEE Symposium on Privacy-Aware Computing_ (**_PAC'17_**), _Washington, USA, 2017._
+- **Xingliang Yuan**, Xinyu Wang, Chenyun Yu, Cong Wang, and Sarana Nutanong, "Privacy-preserving Similarity Joins Over Encrypted Data", **_IEEE Transactions on Information Forensics and Security_** (**_TIFS_**), Accepted, 2017.
+
+- Chengjun Cai, **Xingliang Yuan**, and Cong Wang, "Hardening Distributed and Encrypted Keyword Search via Blockchain", In the _1st IEEE Symposium on Privacy-Aware Computing_ (**_PAC'17_**), _Washington, USA, 2017._
 
 - Xiaoning Liu, **Xingliang Yuan**, and Cong Wang, "EncSIM: An Encrypted Similarity Search Service for Distributed High-dimensional Datasets", In the _25th IEEE/ACM International Symposium on Quality of Service_ (**_IWQoS'17_**), _Barcelona, Spain, 2017. (Acceptance ratio: 29/149 = 19.5%)_
 
