@@ -19,6 +19,10 @@ I will join the Faculty of Information Technology at [Monash University](https:/
 
 ### Recent Publication
 
+- Cong Wang, **Xingliang Yuan**, Yong Cui, and Kui Ren, "Towards Secure Outsourced Middlebox Services: Practices, Challenges, and Beyond", **_IEEE Network Magazine_**, Accepted, 2017.
+
+- Xu Yuan, **Xingliang Yuan**, Cong Wang, and Baochun Li, "Secure Multi-Client Data Access with Boolean Queries in Distributed Key-Value Stores", In the _5th IEEE Conference on Communications and Network Security_ (**_CNS'17_**), _Las Vegas, USA, 2017._
+
 - **Xingliang Yuan**, Xinyu Wang, Cong Wang, Chenyun Yu, and Sarana Nutanong, "Privacy-preserving Similarity Joins Over Encrypted Data", **_IEEE Transactions on Information Forensics and Security_** (**_TIFS_**), Accepted, 2017.
 
 - Chengjun Cai, **Xingliang Yuan**, and Cong Wang, "Hardening Distributed and Encrypted Keyword Search via Blockchain", In the _1st IEEE Symposium on Privacy-Aware Computing_ (**_PAC'17_**), _Washington, USA, 2017._
