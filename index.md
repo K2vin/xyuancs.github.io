@@ -72,8 +72,8 @@ I will join the Faculty of Information Technology at [Monash University](https:/
 
 ### Service
 
-- TPC member: [AsiaCCS-SCC 2017](https://conference.cs.cityu.edu.hk/asiaccsscc/index.html);Globecom 2017.
-- Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Knowledge and Data Engineering, IEEE Internet of Things Journal, Security and Communication Networks; ACM CODASPY 2017.
+- TPC member: [AsiaCCS-SCC 2017](https://conference.cs.cityu.edu.hk/asiaccsscc/index.html), Globecom 2017, IWQoS 2017,  SecureComm 2017.
+- Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE Transactions on Knowledge and Data Engineering, IEEE Internet of Things Journal, Security and Communication Networks; ACM CODASPY 2017.
 - Departmental Research Education Committee Member, CS Dept., CityU HK, 2014 - 2016.
 - Volunteer: INFOCOM 2015; [ASI 2014, Information Security and Privacy in Social Networks and Cloud Computing](http://conference.cs.cityu.edu.hk/asi14/index.htm).
 
