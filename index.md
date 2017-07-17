@@ -6,7 +6,6 @@ image:
   feature: mountain.jpg
 ---
 
-### Overview 
 I am currently a Research Fellow in [Department of Compute Science](http://www.cs.cityu.edu.hk/) at [City University of Hong Kong](http://www.cityu.edu.hk/). I earned my PhD degree from [City University of Hong Kong](http://www.cityu.edu.hk/) under the direction of the incomparable [Cong Wang](http://www.cs.cityu.edu.hk/~congwang/) in August 2016, and I received my MS degree and BS degree from [Illinois Institute of Technology](http://www.iit.edu/) and [Nanjing University of Posts and Telecommunications](http://www.njupt.edu.cn/) both in Electrical Engineering. Before that, I was graduated from the [High School Affiliated to Nanjing Normal University](https://en.wikipedia.org/wiki/High_School_Affiliated_to_Nanjing_Normal_University). From 2011 to 2013, I worked at [Stromasys S.A.](http://www.stromasys.com/) as Senior Software Engineer, developing virtual SPARC and ALPHA servers on the x86 platform. 
 
 <br />
@@ -21,7 +20,7 @@ I will join the Faculty of Information Technology at [Monash University](https:/
 
 - Cong Wang, **Xingliang Yuan**, Yong Cui, and Kui Ren, "Towards Secure Outsourced Middlebox Services: Practices, Challenges, and Beyond", **_IEEE Network Magazine_**, Accepted, 2017.
 
-- Xu Yuan, **Xingliang Yuan**, Cong Wang, and Baochun Li, "Secure Multi-Client Data Access with Boolean Queries in Distributed Key-Value Stores", In the _5th IEEE Conference on Communications and Network Security_ (**_CNS'17_**), _Las Vegas, USA, 2017._
+- Xu Yuan, **Xingliang Yuan**, Baochun Li, and Cong Wang, "Secure Multi-Client Data Access with Boolean Queries in Distributed Key-Value Stores", In the _5th IEEE Conference on Communications and Network Security_ (**_CNS'17_**), _Las Vegas, USA, 2017._
 
 - **Xingliang Yuan**, Xinyu Wang, Cong Wang, Chenyun Yu, and Sarana Nutanong, "Privacy-preserving Similarity Joins Over Encrypted Data", **_IEEE Transactions on Information Forensics and Security_** (**_TIFS_**), Accepted, 2017.
 
