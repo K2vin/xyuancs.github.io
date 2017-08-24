@@ -10,13 +10,9 @@ image:
 
 ### Overview
 
-I am currently a Research Fellow in [Department of Compute Science](http://www.cs.cityu.edu.hk/) at [City University of Hong Kong](http://www.cityu.edu.hk/). I earned my PhD degree from [City University of Hong Kong](http://www.cityu.edu.hk/) under the direction of the incomparable [Cong Wang](http://www.cs.cityu.edu.hk/~congwang/) in August 2016, and I received my MS degree and BS degree from [Illinois Institute of Technology](http://www.iit.edu/) and [Nanjing University of Posts and Telecommunications](http://www.njupt.edu.cn/) both in Electrical Engineering. Before that, I was graduated from the [High School Affiliated to Nanjing Normal University](https://en.wikipedia.org/wiki/High_School_Affiliated_to_Nanjing_Normal_University). From 2011 to 2013, I worked at [Stromasys S.A.](http://www.stromasys.com/) as Senior Software Engineer, developing virtual SPARC and ALPHA servers on the x86 platform. 
-
+I am a Lecturer in [Faculty of Information Technology](https://www.monash.edu/it) at [Monash University](https://www.monash.edu/it/about-us/our-rankings). I earned my PhD degree from [City University of Hong Kong](http://www.cityu.edu.hk/) under the direction of the incomparable [Cong Wang](http://www.cs.cityu.edu.hk/~congwang/) in 2016.
 <br />
 My research interests include cloud computing security, network security, mobile security, and hardware security, with the current focus on search over encrypted data, and network function virtualization security.
-
-<br />
-I will join the Faculty of Information Technology at [Monash University](https://www.monash.edu/it/about-us/our-rankings) as a Lecturer (~Assistant Professor).
 
 ---
 
