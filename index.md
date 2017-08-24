@@ -11,6 +11,7 @@ image:
 ### Overview
 
 I am a Lecturer in the [Faculty of Information Technology](https://www.monash.edu/it) at [Monash University](https://www.monash.edu/it/about-us/our-rankings). I earned my PhD degree from [City University of Hong Kong](http://www.cityu.edu.hk/) under the direction of the incomparable [Cong Wang](http://www.cs.cityu.edu.hk/~congwang/) in 2016.
+
 <br />
 My research interests include cloud computing security, network security, mobile security, and hardware security, with the current focus on search over encrypted data, and network function virtualization security.
 
