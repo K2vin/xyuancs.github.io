@@ -19,6 +19,8 @@ My research interests include cloud computing security, network security, mobile
 
 ### Recent Publication
 
+- Yifeng Zheng, Huayi Duan, **Xingliang Yuan**, and Cong Wang, "Privacy-Aware and Efficient Mobile Crowdsensing with Truth Discovery", **_IEEE Transactions on Dependable and Secure Computing_** (**_TDSC_**), Accepted, 2017.
+
 - Cong Wang, **Xingliang Yuan**, Yong Cui, and Kui Ren, "Towards Secure Outsourced Middlebox Services: Practices, Challenges, and Beyond", **_IEEE Network Magazine_**, Accepted, 2017.
 
 - Xu Yuan, **Xingliang Yuan**, Baochun Li, and Cong Wang, "Secure Multi-Client Data Access with Boolean Queries in Distributed Key-Value Stores", In the _5th IEEE Conference on Communications and Network Security_ (**_CNS'17_**), _Las Vegas, USA, 2017._
