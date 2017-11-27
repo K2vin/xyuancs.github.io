@@ -22,7 +22,7 @@ I am always looking for outstanding students; please email me your CV and suppor
 
 ### Recent Publication
 
-- Xiaoting Tang, Congwang, **Xingliang Yuan**, and Qian Wang, "Non-Interactive Privacy-Preserving Truth Discovery in Crowd Sensing Applications", In the _37th International Conference on Computer Communications_ (**_INFOCOM'18_**), _Honolulu, HI, USA, 2018. (Acceptance ratio: 309/1606 = 19.2%)_
+- Xiaoting Tang, Cong Wang, **Xingliang Yuan**, and Qian Wang, "Non-Interactive Privacy-Preserving Truth Discovery in Crowd Sensing Applications", In the _37th International Conference on Computer Communications_ (**_INFOCOM'18_**), _Honolulu, HI, USA, 2018. (Acceptance ratio: 309/1606 = 19.2%)_
  
 - Yifeng Zheng, Huayi Duan, **Xingliang Yuan**, and Cong Wang, "Privacy-Aware and Efficient Mobile Crowdsensing with Truth Discovery", **_IEEE Transactions on Dependable and Secure Computing_** (**_TDSC_**), Accepted, 2017.
 
