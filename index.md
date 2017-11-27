@@ -13,12 +13,16 @@ image:
 I am a Lecturer in the [Faculty of Information Technology](https://www.monash.edu/it) at [Monash University](https://www.monash.edu/it/about-us/our-rankings), and affiliated with the [Monash Cybersecurity Lab](http://www.monash.edu/cybersecurity-lab). I earned my PhD degree from [City University of Hong Kong](http://www.cityu.edu.hk/) under the direction of the incomparable [Cong Wang](http://www.cs.cityu.edu.hk/~congwang/) in 2016.
 
 <br />
-My research interests include cloud computing security, network security, mobile security, and hardware security, with the current focus on search over encrypted data, and network function virtualization security.
+My research interests include cloud security, network security, mobile security, and hardware security, with the recent focus on search over encrypted data, and network function virtualization security. My research is currently supported by the  government, university, as well as industry sectors, including Hong Kong Innovation and Technology Commission, Monash University, Oceania Cyber Security Centre, Microsoft Azure, and Collinstar Capital.
+
+I am always looking for outstanding students; please email me your CV and supporting documents. More details on PhD applications can be found [here](http://www.monash.edu/graduate-research/future-students/apply). 
 
 ---
 
 ### Recent Publication
 
+- Xiaoting Tang, Congwang, **Xingliang Yuan**, and Qian Wang, "Non-Interactive Privacy-Preserving Truth Discovery in Crowd Sensing Applications", In the _37th International Conference on Computer Communications_ (**_INFOCOM'18_**), _Honolulu, HI, USA, 2018. (Acceptance ratio: 309/1606 = 19.2%)_
+ 
 - Yifeng Zheng, Huayi Duan, **Xingliang Yuan**, and Cong Wang, "Privacy-Aware and Efficient Mobile Crowdsensing with Truth Discovery", **_IEEE Transactions on Dependable and Secure Computing_** (**_TDSC_**), Accepted, 2017.
 
 - Cong Wang, **Xingliang Yuan**, Yong Cui, and Kui Ren, "Towards Secure Outsourced Middlebox Services: Practices, Challenges, and Beyond", **_IEEE Network Magazine_**, Accepted, 2017.
@@ -65,17 +69,14 @@ My research interests include cloud computing security, network security, mobile
 
 ### Teaching
 
-- Instructor: Semester A 2013/14, 2014/15, 2015/16, CS5222: Computer Network and Internet;
-- Tutor: Semester B 2014/15, 2015/16, CS5293 Topics on Information Security;
-- Tutor: Semester B 2014/15, 2015/16, CS4293 Topics on Computer Security;
-- Tutor: Semester B 2013/14, GE2323 Mobile Social Networks: Practices, Challenges, and Beyond;
+- Semester S1, FIT3073: [Software Security](https://monash.edu/pubs/2017handbooks/units/FIT3173.html);
 
 ---
 
 ### Service
 
-- TPC member: [AsiaCCS-SCC 2017](https://conference.cs.cityu.edu.hk/asiaccsscc/index.html), Globecom 2017, IWQoS 2017,  SecureComm 2017.
-- Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Mobile Computing, IEEE Transactions on Knowledge and Data Engineering, IEEE Internet of Things Journal, Security and Communication Networks; ACM CODASPY 2017.
+- TPC member: [AsiaCCS-SCC 2017](https://conference.cs.cityu.edu.hk/asiaccsscc/index.html), Globecom 2017, IWQoS 2017,  SecureComm 2017, ICCCN 2018.
+- Reviewer: IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Information Forensics and Security, IEEE Transactions on Mobile Computing, IEEE Transactions on Multimedia, IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Service Computing, IEEE Internet of Things Journal, Security and Communication Networks; ACM CODASPY 2017, ISPEC 2017.
 - Departmental Research Education Committee Member, CS Dept., CityU HK, 2014 - 2016.
 - Volunteer: INFOCOM 2015; [ASI 2014, Information Security and Privacy in Social Networks and Cloud Computing](http://conference.cs.cityu.edu.hk/asi14/index.htm).
 
