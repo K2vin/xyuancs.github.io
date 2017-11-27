@@ -15,6 +15,7 @@ I am a Lecturer in the [Faculty of Information Technology](https://www.monash.e
 <br />
 My research interests include cloud security, network security, mobile security, and hardware security, with the recent focus on search over encrypted data, and network function virtualization security. My research is currently supported by the  government, university, as well as industry sectors, including Hong Kong Innovation and Technology Commission, Monash University, Oceania Cyber Security Centre, Microsoft Azure, and Collinstar Capital.
 
+<br />
 I am always looking for outstanding students; please email me your CV and supporting documents. More details on PhD applications can be found [here](http://www.monash.edu/graduate-research/future-students/apply). 
 
 ---
